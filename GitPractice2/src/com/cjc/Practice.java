@@ -16,6 +16,11 @@ public class Practice
 		}
 	System.out.println("task is completed");
 		System.out.println("End task");
+
+		public void m1()
+			{
+			System.out.println("This is m1 method");
+		}
 	}
 
 }
