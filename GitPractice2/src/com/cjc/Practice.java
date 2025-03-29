@@ -14,7 +14,8 @@ public class Practice
 		{
 			System.out.println("Do work-----------");
 		}
-	System.out.println("task is completed");	
+	System.out.println("task is completed");
+		System.out.println("End task");
 	}
 
 }
